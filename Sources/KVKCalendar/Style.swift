@@ -116,7 +116,7 @@ public struct HeaderScrollStyle {
     public var dotCorners: UIRectCorner = .allCorners
     public var dotCornersRadius: CGSize?
     public var titleDateAlignment: NSTextAlignment = .left
-    public var titleDateFont: UIFont = .boldSystemFont(ofSize: 20)
+    public var titleDateFont: UIFont = .boldSystemFont(ofSize: 15)
     public var isAnimateTitleDate: Bool = false
     public var colorNameEmptyDay: UIColor = gainsboro
     public var showDatesForOtherMonths: Bool = true
